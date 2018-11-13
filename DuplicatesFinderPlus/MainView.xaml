@@ -38,8 +38,7 @@
                 Content="FIND"
                 FontSize="12"
                 FontWeight="Bold"
-                Foreground="White"
-                IsDefault="True" />
+                Foreground="White"/>
 
         </Grid>
         <Grid>
