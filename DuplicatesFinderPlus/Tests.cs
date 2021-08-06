@@ -8,5 +8,9 @@ namespace DuplicatesFinderPlus
 {
     class Tests
     {
+        public Tests()
+        {
+            Console.WriteLine("blaaaaaaaaaaaaa");
+        }
     }
 }
