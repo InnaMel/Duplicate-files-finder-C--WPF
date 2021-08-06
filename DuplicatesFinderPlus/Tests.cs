@@ -12,5 +12,10 @@ namespace DuplicatesFinderPlus
         {
             Console.WriteLine("blaaaaaaaaaaaaa");
         }
+
+        public Tests(int b)
+        {
+
+        }
     }
 }
